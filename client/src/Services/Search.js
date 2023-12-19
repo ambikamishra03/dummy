@@ -8,7 +8,7 @@ function Submit(id) {
 
     var config = {
       method: "post",
-      url: "https://flexmoney-assignment.onrender.com/find",
+      url: "https://yoga-class-backend-0z6m.onrender.com/find",
       headers: {
         "Content-Type": "application/json",
       },

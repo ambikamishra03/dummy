@@ -6,7 +6,7 @@ function Submit(dataItems) {
 
     var config = {
       method: "post",
-      url: "https://flexmoney-assignment.onrender.com/user",
+      url: "https://yoga-class-backend-0z6m.onrender.com/user",
       headers: {
         "Content-Type": "application/json",
       },

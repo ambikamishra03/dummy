@@ -8,7 +8,7 @@ function Pay(id) {
 
     var config = {
       method: "post",
-      url: "https://flexmoney-assignment.onrender.com/fee",
+      url: "https://yoga-class-backend-0z6m.onrender.com/fee",
       headers: {
         "Content-Type": "application/json",
       },
